@@ -1,2 +1,2 @@
 venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor,eventbrite
-"Netherlands eScience Center,online,NA,NA,NA,""March 22 - 24, 2022"",9:00 - 13:00 CET,2022-03-22T00:00:00Z,2022-03-24T00:00:00Z,""Pablo Rodriguez-Sanchez, Lieke de Boer, Barbara Vreede"",""Dafne van Kuppevelt, Candace Moore"",ds,ds-rpackaging,R packages,2022-03-22-ds-rpackaging,NA,NA"
+"Netherlands eScience Center",online,NA,NA,NA,"March 22 - 24, 2022","9:00 - 13:00 CET","2022-03-22T00:00:00Z","2022-03-24T00:00:00Z","Pablo Rodríguez-Sánchez, Lieke de Boer, Barbara Vreede","Dafne van Kuppevelt, Candace Moore",ds,ds-rpackaging,"R packages",2022-03-22-ds-rpackaging,NA,NA
