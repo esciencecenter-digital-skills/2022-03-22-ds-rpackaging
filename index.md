@@ -477,6 +477,7 @@ to include the relevant installation instrucctions.
 These are the installation instructions for the tools used
 during the workshop.
 {% endcomment %}
+<h3 id="software-setup">Install R, RStudio and required packages</h3>
 
 {% if info.carpentry == "swc" %}
 {% include swc/setup.html %}
